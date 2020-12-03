@@ -11,3 +11,16 @@ C:\Users\Andriy\source\repos\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTas
 C:\Users\Andriy\source\repos\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.dll
 C:\Users\Andriy\source\repos\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.pdb
 C:\Users\Andriy\source\repos\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.genruntimeconfig.cache
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.exe
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.deps.json
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.runtimeconfig.json
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.runtimeconfig.dev.json
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.dll
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\bin\Debug\netcoreapp3.1\SoftTasks.pdb
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.csprojAssemblyReference.cache
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.csproj.CoreCompileInputs.cache
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.AssemblyInfoInputs.cache
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.AssemblyInfo.cs
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.dll
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.pdb
+C:\Users\Andriy\Documents\SoftTasks\SoftTasks\SoftTasks\obj\Debug\netcoreapp3.1\SoftTasks.genruntimeconfig.cache

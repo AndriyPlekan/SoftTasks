@@ -58,7 +58,29 @@ namespace SoftTasks
             {
                 Console.WriteLine($"{group.name} - {group.count}");
             }
+
             //5
+            Console.WriteLine();
+            var listStudents = students.GroupBy(s => s.group).Select(g => new { name = g.Key, students = g.OrderBy(s => s.name).ThenBy(s=>s.surName) });
+            foreach (var group in listStudents)
+            {
+                Console.WriteLine($"{group.name}");
+                foreach (var s in group.students)
+                {
+                    Console.WriteLine($"\t{s.name} {s.surName}");
+                }
+
+            }
+            Console.WriteLine();
+            //7-8
+            try
+            {
+                var numberofStudents = NumberOfStudents(students, -1);
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             Console.ReadKey();
         }
@@ -66,7 +88,7 @@ namespace SoftTasks
         {
             if (averMark < 0 || averMark > 5)
             {
-                throw new ArgumentException("Value cannot be lass than 0 or greater than 5");
+                throw new ArgumentException("Value cannot be less than 0 or greater than 5.");
             }
             return group.Count;
         }

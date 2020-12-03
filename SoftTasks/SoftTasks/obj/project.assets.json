@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andriy\\source\\repos\\SoftTasks\\SoftTasks\\SoftTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Andriy\\Documents\\SoftTasks\\SoftTasks\\SoftTasks\\SoftTasks.csproj",
       "projectName": "SoftTasks",
-      "projectPath": "C:\\Users\\Andriy\\source\\repos\\SoftTasks\\SoftTasks\\SoftTasks.csproj",
+      "projectPath": "C:\\Users\\Andriy\\Documents\\SoftTasks\\SoftTasks\\SoftTasks\\SoftTasks.csproj",
       "packagesPath": "C:\\Users\\Andriy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andriy\\source\\repos\\SoftTasks\\SoftTasks\\obj\\",
+      "outputPath": "C:\\Users\\Andriy\\Documents\\SoftTasks\\SoftTasks\\SoftTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
