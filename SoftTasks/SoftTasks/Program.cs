@@ -81,6 +81,10 @@ namespace SoftTasks
             {
                 Console.WriteLine(e.Message);
             }
+            catch(Exception e)
+            {
+                Console.WriteLine($"Critical System failure: {e.Message}");
+            }
 
             Console.ReadKey();
         }
